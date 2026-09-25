@@ -1,0 +1,11 @@
+# Store personal details and learning goals in variables
+name = "Emmanuel"
+age = 19
+favourite_language = "python"
+goal = "build my own web applications from scratch"
+
+# Display natural-sounding sentences using the variables
+print(f"Hello! My name is {name}.")
+print(f"I am {age} years old.")
+print(f"My favourite programming language to learn is {favourite_language}.")
+print(f"By the end of this course, my goal is to {goal}.")
